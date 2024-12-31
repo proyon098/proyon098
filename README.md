@@ -12,7 +12,7 @@
 ```php
 <?php
 
-namespace PolashMahmud;
+namespace Proyodas;
 
 class About extends Me
 {
